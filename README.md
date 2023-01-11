@@ -1,4 +1,4 @@
 # nodejs
 
 ## server
-function: mypage, login, POST, GET, PUT, DELETE ...
+function: mypage, login, search, list, edit, detail etc
